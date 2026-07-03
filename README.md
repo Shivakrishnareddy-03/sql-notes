@@ -10,15 +10,15 @@ Every concept here is written in my own words, with real examples I ran myself. 
 
 ## Index
 
-| #   | Topic                                                | Status         |
-| --- | ---------------------------------------------------- | -------------- |
-| 01  | SELECT, FROM & WHERE — retrieving and filtering rows | 🟡 In progress |
-| 02  | ORDER BY & LIMIT                                     | ⬜ Planned     |
-| 03  | Aggregate functions (COUNT, SUM, AVG)                | ⬜ Planned     |
-| 04  | GROUP BY & HAVING                                    | ⬜ Planned     |
-| 05  | JOINs (INNER, LEFT, RIGHT)                           | ⬜ Planned     |
-| 06  | Subqueries                                           | ⬜ Planned     |
-| 07  | Window functions                                     | ⬜ Planned     |
+| #   | Topic                                                | Status     |
+| --- | ---------------------------------------------------- | ---------- |
+| 01  | SELECT, FROM & WHERE — retrieving and filtering rows | 🟢 Done    |
+| 02  | ORDER BY & LIMIT                                     | ⬜ Planned |
+| 03  | Aggregate functions (COUNT, SUM, AVG)                | ⬜ Planned |
+| 04  | GROUP BY & HAVING                                    | ⬜ Planned |
+| 05  | JOINs (INNER, LEFT, RIGHT)                           | ⬜ Planned |
+| 06  | Subqueries                                           | ⬜ Planned |
+| 07  | Window functions                                     | ⬜ Planned |
 
 _(This table grows as I do. 🟢 = done, 🟡 = in progress, ⬜ = planned.)_
 
