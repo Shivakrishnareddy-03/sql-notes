@@ -91,3 +91,13 @@ WHERE role = 'Data Scientist';
 > **Q2:** Show only the people in Hyderabad.
 >
 > **Q3:** Show everyone earning more than 90000.
+
+# Bonus: SQL execution order.
+
+_something worth remembering!!!_
+
+The order you write a query isn't the order SQL runs it. Actual execution order:
+
+> `FROM` → `WHERE` → `GROUP BY` → `HAVING` → `SELECT` → `ORDER BY` → `LIMIT`
+
+Key takeaway: SELECT runs almost last — which is why you can't use a column alias in WHERE, and why filtering aggregates needs HAVING, not WHERE.
