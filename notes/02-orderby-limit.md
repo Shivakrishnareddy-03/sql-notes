@@ -97,15 +97,10 @@ _Logic: sort salaries high → low, skip the top one (`OFFSET 1`), then take one
 
 _Solve each one yourself on the `employees` table._
 
-### Part A — Today's topic (ORDER BY & LIMIT)
-
 > 1.  List all employees sorted by salary, lowest -> highest.
 > 2.  Show the top 3 highest-paid employees (name and salary).
 > 3.  Sort employees by role (A–Z), and within each role, salary highest first.
-
-### Part B — Combined with note 01 (SELECT + WHERE + sorting)
-
 > 4.  Show the name and salary of everyone in Bangalore, highest salary first.
 > 5.  Show the single highest-paid Data Scientist.
 > 6.  List all Data Analysts sorted by salary low -> high (name and salary).
-> 7.  🌶️ Find the second-lowest paid employee.
+> 7.  Find the second-lowest paid employee.
