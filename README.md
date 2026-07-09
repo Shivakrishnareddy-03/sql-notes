@@ -17,7 +17,7 @@ Every concept here is written in my own words, with real examples I ran myself. 
 | 03  | Aggregate functions (COUNT, SUM, AVG)                | 🟢 Done    |
 | 04  | GROUP BY & HAVING                                    | 🟢 Done    |
 | 05  | JOINs (INNER, LEFT, RIGHT)                           | 🟢 Done    |
-| 06  | Subqueries                                           | ⬜ Planned |
+| 06  | Subqueries                                           | 🟢 Done    |
 | 07  | Window functions                                     | ⬜ Planned |
 
 _(This table grows as I do. 🟢 = done, 🟡 = in progress, ⬜ = planned.)_
