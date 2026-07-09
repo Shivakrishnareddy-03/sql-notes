@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="400" viewBox="0 0 560 400" font-family="Arial, Helvetica, sans-serif">
+  <rect x="40" y="24" width="480" height="104" rx="14" fill="#ffffff" stroke="#D3D1C7" stroke-width="1"/>
+  <text x="64" y="60" font-size="20" font-weight="500" fill="#2C2C2A">Inner join</text>
+  <text x="64" y="86" font-size="15" fill="#5F5E5A">only rows matching in both</text>
+  <rect x="64" y="98" width="90" height="30" rx="15" fill="#FCEBEB" stroke="#A32D2D" stroke-width="1"/>
+  <text x="109" y="118" font-size="15" fill="#791F1F" text-anchor="middle">Sam</text>
+  <rect x="170" y="98" width="150" height="30" rx="15" fill="#FCEBEB" stroke="#A32D2D" stroke-width="1"/>
+  <text x="245" y="118" font-size="15" fill="#791F1F" text-anchor="middle">Operations</text>
+
+  <rect x="40" y="144" width="480" height="104" rx="14" fill="#ffffff" stroke="#D3D1C7" stroke-width="1"/>
+  <text x="64" y="180" font-size="20" font-weight="500" fill="#2C2C2A">Left join</text>
+  <text x="64" y="206" font-size="15" fill="#5F5E5A">all employees + matches</text>
+  <rect x="64" y="218" width="90" height="30" rx="15" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1"/>
+  <text x="109" y="238" font-size="15" fill="#27500A" text-anchor="middle">Sam</text>
+  <rect x="170" y="218" width="150" height="30" rx="15" fill="#FCEBEB" stroke="#A32D2D" stroke-width="1"/>
+  <text x="245" y="238" font-size="15" fill="#791F1F" text-anchor="middle">Operations</text>
+
+  <rect x="40" y="264" width="480" height="104" rx="14" fill="#ffffff" stroke="#D3D1C7" stroke-width="1"/>
+  <text x="64" y="300" font-size="20" font-weight="500" fill="#2C2C2A">Right join</text>
+  <text x="64" y="326" font-size="15" fill="#5F5E5A">all departments + matches</text>
+  <rect x="64" y="338" width="90" height="30" rx="15" fill="#FCEBEB" stroke="#A32D2D" stroke-width="1"/>
+  <text x="109" y="358" font-size="15" fill="#791F1F" text-anchor="middle">Sam</text>
+  <rect x="170" y="338" width="150" height="30" rx="15" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1"/>
+  <text x="245" y="358" font-size="15" fill="#27500A" text-anchor="middle">Operations</text>
+
+  <text x="40" y="390" font-size="14" fill="#888780">Green = kept in result  ·  red = dropped</text>
+</svg>
