@@ -16,7 +16,7 @@ Every concept here is written in my own words, with real examples I ran myself. 
 | 02  | ORDER BY & LIMIT                                     | 🟢 Done    |
 | 03  | Aggregate functions (COUNT, SUM, AVG)                | 🟢 Done    |
 | 04  | GROUP BY & HAVING                                    | 🟢 Done    |
-| 05  | JOINs (INNER, LEFT, RIGHT)                           | ⬜ Planned |
+| 05  | JOINs (INNER, LEFT, RIGHT)                           | 🟢 Done    |
 | 06  | Subqueries                                           | ⬜ Planned |
 | 07  | Window functions                                     | ⬜ Planned |
 
